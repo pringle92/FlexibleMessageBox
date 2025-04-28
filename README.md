@@ -1,4 +1,4 @@
-# FlexibleMessageBox for .NET WinForms
+# FlexibleMessageBox for .NET WinForms (C#)
 
 A flexible, single-file replacement for the standard .NET `System.Windows.Forms.MessageBox`, enhanced with Rich Text Format (RTF) support, improved auto-sizing, and modern C# features.
 
