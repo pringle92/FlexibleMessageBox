@@ -16,7 +16,7 @@ Based on the original work by Jörg Reichert, with modifications and updates.
 * **Icon Support:** Displays standard `MessageBoxIcon` types (Information, Warning, Error, Question).
 * **Button Customization:** Supports standard `MessageBoxButtons` combinations (OK, OKCancel, YesNo, YesNoCancel, AbortRetryIgnore, RetryCancel).
 * **Default Button:** Specify the button that should have initial focus.
-* **Localization:** Includes button text translations for English (fallback), German, Spanish, and Italian.
+* **Localization:** Includes button text translations for English, German, Spanish, and Italian.
 * **Keyboard Shortcuts:** Supports standard MessageBox keyboard interactions (Ctrl+C/Ctrl+Insert to copy, Escape to close/cancel).
 * **Configurable:** Adjust maximum size factors and the default font.
 * **Modernized Code:** Updated to leverage newer C# language features for clarity and conciseness.
